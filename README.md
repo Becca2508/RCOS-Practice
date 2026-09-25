@@ -3,7 +3,7 @@
 
 
 * Rebecca Prasad
-* Photo: !\[My\_Image](Rebecca\_Picture.jpg)
+* Photo: !\[My\_Image](Rebecca\_Picture.JPG)
 * Graduation Year: 2028
-* Project: Trustworthy Tutoring Agents - AI Tutor 
+* Project: Trustworthy Tutoring Agents - AI Tutor
 
